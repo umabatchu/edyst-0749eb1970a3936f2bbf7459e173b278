@@ -1,1 +1,4 @@
 
+# Details
+- author: umabatchu8@gmail.com
+- role: STUDENT
